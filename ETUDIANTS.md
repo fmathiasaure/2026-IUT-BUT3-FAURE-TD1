@@ -25,9 +25,9 @@
 
 | Nom (état civil) | Pseudo GitHub | Rôle |
 |------------------|---------------|------|
-|                  |               | porteur |
-|                  |               | membre |
-|                  |               | membre |
+| Faure            | fmathiasaure  | porteur |
+| Berthomieu       | hbtm31        | membre |
+| Gillis           | Jeremyiut     | membre |
 
 ## 3. Rendu
 
